@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "1926000008264242",
+      "name": "mvbb",
+      "domain": {
+        "id": "1022357160",
+        "name": "mvbb-64716739.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "64716739",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

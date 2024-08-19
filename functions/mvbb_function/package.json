@@ -1,0 +1,9 @@
+{
+	"name": "mvbb_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "surendhar.v+apinew1@zohotest.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

@@ -1,7 +1,8 @@
 {
   "functions": {
     "targets": [
-      "sample"
+      "sample",
+      "mvbb_function"
     ],
     "ignore": [
       ".output"
